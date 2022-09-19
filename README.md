@@ -23,4 +23,4 @@ In this project i have created a Food Restaurant Home Page. And i have learnt ho
 
 ### You can Check it Live on Below Link :
 
-[Project Live Link](https://azam-street-style-landing-page.netlify.app/)
+[Project Live Link](https://azam-food-restaurant-home-page.netlify.app/)
