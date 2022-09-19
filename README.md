@@ -15,7 +15,7 @@ In this project i have created a Food Restaurant Home Page. And i have learnt ho
 
 ### My Project is looking like :
 
-![Web Site Image](./screenshot/food-restaurant)
+![Web Site Image](./screenshot/food-restaurant.jpg)
 
 ## Time taken to finish this project
 
